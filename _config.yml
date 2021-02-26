@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Jonathan Fuller"
   avatar           : "profile.png"
-  bio              : "PhD student, Department of Electrical and Computer Engineering, Georgia Tech"
+  bio              : > "PhD student, 
+                       Department of Electrical and Computer Engineering, 
+                       Georgia Tech"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
