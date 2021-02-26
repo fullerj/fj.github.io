@@ -7,7 +7,6 @@ venue: 'Computers \& Security'
 paperurl: 'http://fullerj.github.io/files/cose17.pdf'
 citation: 'J. Fuller, B. Ramsey, M. Rice, and J. Pecarina, “Misuse-based Detection of Z-Wave Network Attacks; <i>Computers \& Security</i>. 64, pp. 44-8, 2017.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [PDF](http://fullerj.github.io/files/cose17.pdf)
 
