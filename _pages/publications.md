@@ -29,3 +29,7 @@ C. Badenhop, <b>J. Fuller</b>, J. Hall, B. Ramsey, and M. Rice, “Evaluating IT
 <br>
 <b>[Misuse-based detection of Z-Wave network attacks](https://fullerj.github.io/publications/cose17)</b> <br>
 <b>J. Fuller</b>, B. Ramsey, M. Rice, and J. Pecarina, “Misuse-based Detection of Z-Wave Network Attacks," <i>Computers & Security</i>, 64, pp. 44-8, 2017.
+
+
+
+
