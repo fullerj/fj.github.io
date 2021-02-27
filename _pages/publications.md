@@ -19,7 +19,7 @@ B. Ramsey, <b>J. Fuller</b>, and C. Badenhop, “Efficacy of Physical Layer Prea
 
 <br>
 <b>[Wireless Intrusion Detection of Covert Channel Attacks in ITU-T G.9959-based Networks](https://fullerj.github.io/publications/iccws15)</b> <br>
-<b>J. Fuller</b>, B. Ramsey, and J. Pecarina, “Wireless Intrusion Detection of Covert Channel Attacks in ITU-T G.9959-based Networks,” <i>11th International Conference on Cyber Warfare and Security (ICCWS)</i> 52(8), pp 137-145, 2015.
+<b>J. Fuller</b>, B. Ramsey, and J. Pecarina, “Wireless Intrusion Detection of Covert Channel Attacks in ITU-T G.9959-based Networks,” <i>11th International Conference on Cyber Warfare and Security (ICCWS)</i>, pp 137-145, 2016.
 
 <br>
 <b>[Evaluating ITU-T G.9959 based Wireless Systems used in Critical Infrastructure](https://fullerj.github.io/publications/cip15)</b> <br>
