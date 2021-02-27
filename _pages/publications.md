@@ -11,7 +11,7 @@ author_profile: true
 
 <br>
 <b>[Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac](https://fullerj.github.io/publications/iet16)</b> <br>
-B. Ramsey, <b>J. Fuller</b>, and C. Badenhop, “Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac,” <i>IEEE Electronic Letter</i>, 52(8), pp 669-671, 2016.
+B. Ramsey, <b>J. Fuller</b>, and C. Badenhop, “Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac,” <i>IEEE Electronic Letters</i>, 52(8), pp 669-671, 2016.
 
 <br>
 <b>[Wireless Intrusion Detection of Covert Channel Attacks in ITU-T G.9959-based Networks](https://fullerj.github.io/publications/iccws15)</b> <br>
