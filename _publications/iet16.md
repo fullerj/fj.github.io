@@ -1,8 +1,8 @@
 ---
-title: "Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/acs"
+title: "Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac"
 collection: publications
 permalink: /publications/iet16
-citation: 'B. Ramsey, <b>J. Fuller<\b>, and C. Badenhop, “Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac,” s, <i>IEEE Electronic Letters</i>52(8), pp 669-671, 2016.'
+citation: 'B. Ramsey, <b>J. Fuller</b>, and C. Badenhop, “Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac,” <i>IEEE Electronic Letters</i>, 52(8), pp 669-671, 2016.'
 ---
 [[PDF]](https://fullerj.github.io/files/iet16.pdf)
 
