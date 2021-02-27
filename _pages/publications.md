@@ -7,7 +7,6 @@ author_profile: true
 
 ### Conference and Workshop Publications
 
-<br>
 <b>[Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac](https://fullerj.github.io/publications/iet16)</b> <br>
 B. Ramsey, <b>J. Fuller</b>, and C. Badenhop, “Efficacy of Physical Layer Preamble Manipulation for IEEE 802.11 a/ac,” <i>IEEE Electronic Letters</i>, 52(8), pp 669-671, 2016.
 
@@ -26,7 +25,6 @@ C. Badenhop, <b>J. Fuller</b>, J. Hall, B. Ramsey, and M. Rice, “Evaluating IT
 
 ### Journal Articles
 
-<br>
 <b>[Misuse-based detection of Z-Wave network attacks](https://fullerj.github.io/publications/cose17)</b> <br>
 <b>J. Fuller</b>, B. Ramsey, M. Rice, and J. Pecarina, “Misuse-based Detection of Z-Wave Network Attacks," <i>Computers & Security</i>, 64, pp. 44-8, 2017.
 
