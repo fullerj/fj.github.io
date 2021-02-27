@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=mZ_cDEYAAAAJ&hl=en&oi=ao)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=mZ_cDEYAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Misuse-based detection of Z-Wave network attacks](https://github.com/fullerj/fullerj.github.io/blob/master/files/cose17.pdf)</b> <br>
+<b>J. Fuller</b>, B. Ramsey, M. Rice, and J. Pecarina, “Misuse-based Detection of Z-Wave Network Attacks; <i>Computers & Security</i>. 64, pp. 44-8, 2017.
