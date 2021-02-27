@@ -2,7 +2,7 @@
 title: "Rogue Z-Wave Controllers: A Persistent Attack Channel"
 collection: publications
 permalink: /publications/senseapp15
-citation: '<b>J. Fuller<\b> and B. Ramsey, “Rogue Z-Wave Controllers: A Persistent Attack Channel,” <i>10th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseAPP)</i>, pp 734-741, 2015.'
+citation: '<b>J. Fuller</b> and B. Ramsey, “Rogue Z-Wave Controllers: A Persistent Attack Channel,” <i>10th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseAPP)</i>, pp 734-741, 2015.'
 ---
 [[PDF]](https://fullerj.github.io/files/senseapp15.pdf)
 
