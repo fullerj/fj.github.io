@@ -5,8 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-<h3><img src="/images/profile.png" width="50" height="50" > Georgia Institute of Technology, Atlanta, GA</h3>
-
+### Georgia Institute of Technology, Atlanta, GA
 Ph.D. in Electrical and Computer Engineering,  Fall 2019 - Present
 
 ### Air Force Institute of Technology, Dayton, OH
