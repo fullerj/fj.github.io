@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Jonathan Fuller"
-permalink: /fuller_cv
+permalink: 
 author_profile: true
 redirect_from:
   - /resume
