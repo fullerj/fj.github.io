@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to view my Curriculum Vitae [PDF]](https://fullerj.github.io/files/cv/fuller_cv.pdf)
+[Click to view my Curriculum Vitae [PDF]](https://fullerj.github.io/files/fuller_cv.pdf)
 
-<!-- <embed src="https://fullerj.github.io/files/cv/fuller_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="https://fullerj.github.io/files/fuller_cv.pdf" width="650" height="1800" type='application/pdf'> -->
