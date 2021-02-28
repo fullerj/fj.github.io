@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-<h3><img src="/images/profile.png"> Georgia Institute of Technology, Atlanta, GA</h3>
+<h3><img src="/images/profile.png" width="100" height="100" > Georgia Institute of Technology, Atlanta, GA</h3>
 
 Ph.D. in Electrical and Computer Engineering,  Fall 2019 - Present
 
