@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://fullerj.github.io/images/tower.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://fullerj.github.io/images/tower.jpg" alt="Photo" style="width: 850px;"/> 
 </p>
 
 # About Me
