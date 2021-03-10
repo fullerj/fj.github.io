@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Misuse-based detection of Z-Wave network attacks](https://fullerj.github.io/publications/cose17)</b> <br>
+<b>[Misuse-based Detection of Z-Wave Network Attacks](https://fullerj.github.io/publications/cose17)</b> <br>
 <b>J. Fuller</b>, B. Ramsey, M. Rice, and J. Pecarina, “Misuse-based Detection of Z-Wave Network Attacks," <i>Computers & Security</i>, 2017.
 
 <br>
