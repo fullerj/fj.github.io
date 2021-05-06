@@ -12,4 +12,4 @@ Ph.D. in Electrical and Computer Engineering,  Fall 2019 - Present
 M.S. in Computer Science,  2016
 
 <h3>University of Alabama at Birmingham, Birmingham, AL</h3>
-B.S. Computer Science, 2007
+B.S. in Computer Science, 2007
