@@ -12,6 +12,6 @@ I am a Ph.D. Student in the [School of Electrical and Computer Engineering (ECE)
 
 My current research aims to combine advanced program analysis techniques and large-scale measurements to explore new methods that target counteractions against botnets. In fact, my work on C3PO revealed that approximately 1 in 3 malware use one or more over-permissioned protocols that expose a scalable opportunity for covert monitoring of C&C servers through protocol infiltration, a fundamental enabler of botnet disruptions and takedowns. 
 
-Before joining Georgia Tech, I worked as a Network Systems, where I engineered, operated, and secured the Department of Defense (DoD) information networks and services.
+Before joining Georgia Tech, I worked as a Network Systems Engineer, where I engineered, operated, and secured the Department of Defense (DoD) information networks and services.
 
 My CV is available upon request.
