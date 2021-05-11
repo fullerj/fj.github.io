@@ -2,7 +2,7 @@
 title: "C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration"
 collection: publications
 permalink: /publications/ccs21
-citation: '<b>J. Fuller</b>, R. Kasturi, A. Sikder, B. Arik, H. Xu, V. Verma, E. Asdar, and B. Saltaformaggio, “C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration," <i>Proceedings of the 28rd ACM Conference on Computer and Communications Security (CCS)</i>, Seoul, South Korea, 2021.'
+citation: '<b>J. Fuller</b>, R. Kasturi, A. Sikder, B. Arik, H. Xu, V. Verma, E. Asdar, and B. Saltaformaggio, “C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration," <i>In Proceedings of the 28rd ACM Conference on Computer and Communications Security (CCS)</i>, Seoul, South Korea, 2021.'
 ---
 [//]: [[PDF]](https://fullerj.github.io/)
 
