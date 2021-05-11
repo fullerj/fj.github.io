@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>[C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration](https://fullerj.github.io/publications/ccs21)</b> <br>
-<b>J. Fuller</b>, R. Kasturi, A. Sikder, B. Arik, H. Xu, V. Verma, E. Asdar, and B. Saltaformaggio," <i>In Proceedings of the 28rd ACM Conference on Computer and Communications Security (CCS)</i>, Seoul, South Korea, 2021.
+<b>J. Fuller</b>, R. Kasturi, A. Sikder, B. Arik, H. Xu, V. Verma, E. Asdar, and B. Saltaformaggio," <i>In Proceedings of the 28rd ACM Conference on Computer and Communications Security (CCS)</i>, 2021.
 
 <br>
 <b>[Misuse-based Detection of Z-Wave Network Attacks](https://fullerj.github.io/publications/cose17)</b> <br>
