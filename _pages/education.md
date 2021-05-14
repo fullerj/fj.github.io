@@ -1,4 +1,4 @@
----
+_!---
 layout: archive
 title: "Education"
 permalink: /education/
